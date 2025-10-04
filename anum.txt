@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello anum welcome 
 hoe are you
+=======
+>>>>>>> parent of a0a7bc1 (hello anum)
